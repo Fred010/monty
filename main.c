@@ -1,3 +1,4 @@
+#define  _GNU_SOURCE
 #include "monty.h"
 
 operand_t operand = {NULL, NULL, NULL, 0};
